@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:SwiftUIGameOfLife/SwiftUIGameOfLife.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Simulation">
+   </FileRef>
+   <FileRef
+      location = "group:Grid">
+   </FileRef>
+   <FileRef
+      location = "group:Configurations">
+   </FileRef>
+   <FileRef
+      location = "group:Configuration">
+   </FileRef>
+   <FileRef
+      location = "group:Statistics">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftUIGameOfLife/../GameOfLife">
+   </FileRef>
+   <FileRef
+      location = "group:FunctionalProgramming">
+   </FileRef>
+</Workspace>
